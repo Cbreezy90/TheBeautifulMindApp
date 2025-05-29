@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/Cbreezy90/TheBeautifulMindApp#readme",
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.8",
     "@types/node": "^20.11.24",
     "@types/react": "^18.2.64",
     "autoprefixer": "^10.4.21",
